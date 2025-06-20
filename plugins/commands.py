@@ -79,10 +79,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Xeonbots')
+            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+34H6qMtL5mQ1NTE1')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Xeonbots'),
-            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Xeonflix')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+V3wcedQ19aJmOGZl'),
+            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+Vdu41UeINWI0NzU1')
             ],[
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('✨ ᴀʙᴏᴜᴛ', callback_data='about')
@@ -433,10 +433,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Xeonbots')
+            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+34H6qMtL5mQ1NTE1')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Xeonbots'),
-            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Xeonflix')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+V3wcedQ19aJmOGZl'),
+            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+Vdu41UeINWI0NzU1')
             ],[
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('✨ ᴀʙᴏᴜᴛ', callback_data='about')
