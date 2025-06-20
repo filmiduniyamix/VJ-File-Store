@@ -15,8 +15,6 @@ Special Advantage If This Bot Got Banned, Your Link Will Never Expire, So Just S
 
 Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
 
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
-
 ‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ➠ <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -27,12 +25,6 @@ Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @HubOnlyFile {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
-
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>""" 
-
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
-
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
 
 Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
 
