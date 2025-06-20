@@ -147,7 +147,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
     LOG_TEXT = """<b>#NewUser
 
-    BOT_BY = """ <b> @Files_To_Link_4G_Bot
+BOT_BY = <b> @Files_To_Link_4G_Bot
     
 ID - <code>{}</code>
 
