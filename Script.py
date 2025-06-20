@@ -13,6 +13,10 @@ sᴛʀᴇᴀᴍ / ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴇᴀᴛᴜʀᴇ
  
 Special Advantage If This Bot Got Banned, Your Link Will Never Expire, So Just Send Me Any File And Feel The Power Of Permanent File Store Bot.
 
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
+
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
+
 ‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ➠ <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -25,6 +29,12 @@ Special Advantage If This Bot Got Banned, Your Link Will Never Expire, So Just S
 sɪᴢᴇ ⚙️: {file_size}
 
 Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>""" 
+
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
+
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
+
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
