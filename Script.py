@@ -13,8 +13,6 @@ sᴛʀᴇᴀᴍ / ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴇᴀᴛᴜʀᴇ
  
 Special Advantage If This Bot Got Banned, Your Link Will Never Expire, So Just Send Me Any File And Feel The Power Of Permanent File Store Bot.
 
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
-
 ‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ➠ <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
