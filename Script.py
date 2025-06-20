@@ -20,11 +20,11 @@ Special Advantage If This Bot Got Banned, Your Link Will Never Expire, So Just S
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @Xeonbots {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @HubOnlyFile {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Xeonflix)</b>""" 
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
