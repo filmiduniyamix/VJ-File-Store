@@ -147,7 +147,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
     LOG_TEXT = """<b>#NewUser
 
-BOT_BY = <b> @Files_To_Link_4G_Bot
+BOT_BY = <b> @Files_To_Link_5G_Bot
     
 ID - <code>{}</code>
 
@@ -164,3 +164,4 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
