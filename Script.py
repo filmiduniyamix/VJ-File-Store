@@ -20,11 +20,11 @@ Special Advantage If This Bot Got Banned, Your Link Will Never Expire, So Just S
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @HubOnlyFile {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : tghubfile.pages.dev {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/HubOnlyFile)</b>"""
+Jᴏɪɴ Now ➠ [ᴜᴘᴅᴀᴛᴇ](https://tghubfile.pages.dev/)</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -147,7 +147,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
     LOG_TEXT = """<b>#NewUser
 
-BOT_BY = <b> @Files_To_Link_5G_Bot
+BOT_BY = <b> @file_Store_hub_bot
     
 ID - <code>{}</code>
 
@@ -164,4 +164,5 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
