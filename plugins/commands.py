@@ -79,10 +79,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+EvSfsAP7SVZkNDJl')
+            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://tghubfile.pages.dev/')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+_1xUP6zOTP02NTU1'),
-            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+5LzAQQ7Q0284M2Q9')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://tghubfile.pages.dev/'),
+            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://tghubfile.pages.dev/')
             ],[
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('✨ ᴀʙᴏᴜᴛ', callback_data='about')
@@ -433,10 +433,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+EvSfsAP7SVZkNDJl')
+            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://tghubfile.pages.dev/')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+_1xUP6zOTP02NTU1'),
-            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+5LzAQQ7Q0284M2Q9')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://tghubfile.pages.dev/'),
+            InlineKeyboardButton('🍿 Mᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ', url='https://tghubfile.pages.dev/')
             ],[
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('✨ ᴀʙᴏᴜᴛ', callback_data='about')
