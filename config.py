@@ -17,16 +17,16 @@ def is_enabled(value, default):
     else:
         return default
 
-AUTH_CHANNEL = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('AUTH_CHANNEL', '-1001542373688').split()] # give channel id with seperate space. Ex : ('-10073828 -102782829 -1007282828')
+AUTH_CHANNEL = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('AUTH_CHANNEL', '-1004417415370').split()] # give channel id with seperate space. Ex : ('-10073828 -102782829 -1007282828')
         
 # Bot Information
-API_ID = int(environ.get("API_ID", "25080526"))
-API_HASH = environ.get("API_HASH", "7888bb5fabecd8644ca593572207de9d")
+API_ID = int(environ.get("API_ID", "20560221"))
+API_HASH = environ.get("API_HASH", "37d35e3ead5d84adc8c4ea5032922f8d")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/d6e3a7c39df4ad0372966.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '821215952').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "XeonFileStoreBot") # without @
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8604160114').split()]
+BOT_USERNAME = environ.get("BOT_USERNAME", "tghubfilepagesdevbot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
@@ -48,7 +48,7 @@ AUTO_DELETE = int(environ.get("AUTO_DELETE", "20")) # Time in Minutes
 AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Seconds
 
 # Channel Information
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002223699788"))
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1003961424721"))
 
 # File Caption Information
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
